@@ -105,3 +105,7 @@ if __name__ == '__main__':
     writeToXls(book, wrTable, 2)
     book.save("result.xls")
     pass
+
+
+def thisNewFunction:
+    pass
